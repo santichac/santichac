@@ -1,2 +1,0 @@
-#primer repositorio de git
-
